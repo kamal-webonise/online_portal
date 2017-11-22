@@ -44,7 +44,7 @@ set discount_amount = ((discount/100)*total_sum);
 
 set pay = (total_sum - discount_amount);
 
-select discount_amount,pay,total_sum;
+
 select discount_amount,pay,total_sum;
 
 
